@@ -1,0 +1,38 @@
+# UV
+.uv/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.npy
+*.pkl
+*.parquet
+*.csv
+
+# Models
+*.bin
+*.pth
+*.safetensors
+models/
+
+# Environment
+.env
